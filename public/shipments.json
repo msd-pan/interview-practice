@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "test1",
+    "num-of-goods": 10,
+    "destination": "test1"
+  },
+  {
+    "id": 2,
+    "name": "test2",
+    "num-of-goods": 20,
+    "destination": "test2"
+  },
+  {
+    "id": 3,
+    "name": "test3",
+    "num-of-goods": 30,
+    "destination": "test3"
+  }
+]
